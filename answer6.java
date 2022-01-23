@@ -29,19 +29,7 @@ public class answer6 {
 
         }
 
-        private void selectByValue(Object butter) {
-
-        }
-
-        private boolean getOptions() {
-
-            return false;
-        }
-    }
-}
-
-
-
+        
 
 
 
